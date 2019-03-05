@@ -142,7 +142,7 @@ public class InputServiceImpl implements InputService{
 	}
 	
 	private static Double kelvinToCelcius(Double kelvin) {
-		return kelvin -KELVIN;
+		return kelvin - KELVIN;
 	}
 
 	@SuppressWarnings("unused")
