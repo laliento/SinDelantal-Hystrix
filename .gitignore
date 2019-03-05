@@ -1,10 +1,7 @@
 HELP.md
-/target/generated-sources
-/target/generated-test-sources
-/target/maven-archiver
-/target/maven-status
-/target/surefire-reports
-/target/SinDelantal-Hystrix-0.0.1-SNAPSHOT.jar.*
+/target/
+!/target/SinDelantal-0.0.1-SNAPSHOT.jar
+!/target/SinDelantal-Hystrix-0.0.1-SNAPSHOT.jar
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
