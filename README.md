@@ -11,7 +11,7 @@ Once you build the project navigate to lombok jar location and execute the follo
 
 ## Functional diagram
 
-![Screenshot](Delivery System.jpeg)
+![Screenshot](DeliverySystem.jpeg)
 
 ## Bring up the Application
 
@@ -84,3 +84,11 @@ Sindelantal-Hystrix
 
 Sindelantal
 >https://cloud.docker.com/repository/registry-1.docker.io/laliento/sindelantalserver
+
+##Original branch
+
+Sindelantal-Hystrix
+>https://github.com/laliento/SinDelantal-Hystrix/tree/master2
+
+Sindelantal
+>https://github.com/laliento/SinDelantal
